@@ -1,17 +1,17 @@
 # CodeIgniter 4 Development
-
+## Esto es una prueba
 [![Build Status](https://travis-ci.org/codeigniter4/CodeIgniter4.svg?branch=develop)](https://travis-ci.org/codeigniter4/CodeIgniter4)
 [![Coverage Status](https://coveralls.io/repos/github/codeigniter4/CodeIgniter4/badge.svg?branch=develop)](https://coveralls.io/github/codeigniter4/CodeIgniter4?branch=develop)
 <br>
 
 ## What is CodeIgniter?
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
+CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure.
 More information can be found at the [official site](http://codeigniter.com).
 
-This repository holds the source code for CodeIgniter 4 only. 
-Version 4 is a complete rewrite to bring the quality and the code into a more modern version, 
-while still keeping as many of the things intact that has made people love the framework over the years. 
+This repository holds the source code for CodeIgniter 4 only.
+Version 4 is a complete rewrite to bring the quality and the code into a more modern version,
+while still keeping as many of the things intact that has made people love the framework over the years.
 
 **This is pre-release code and should not be used in production sites.**
 
@@ -19,9 +19,9 @@ More information about the plans for version 4 can be found in [the announcement
 
 ### Documentation
 
-The [User Guide](https://codeigniter4.github.io/userguide/) is the primary documentation for CodeIgniter 4. 
+The [User Guide](https://codeigniter4.github.io/userguide/) is the primary documentation for CodeIgniter 4.
 
-The current **in-progress** User Guide can be found [here](https://codeigniter4.github.io/CodeIgniter4/). 
+The current **in-progress** User Guide can be found [here](https://codeigniter4.github.io/CodeIgniter4/).
 As with the rest of the framework, it is a work in progress, and will see changes over time to structure, explanations, etc.
 
 You might also be interested in the [API documentation](https://codeigniter4.github.io/api/) for the framework components.
@@ -49,7 +49,7 @@ be closed! If you are not sure if you have found a bug, raise a thread on the fo
 someone else may have encountered the same thing.
 
 Before raising a new Github issue, please check that your bug hasn't already
-been reported or fixed. 
+been reported or fixed.
 
 We use pull requests (PRs) for CONTRIBUTIONS to the repository.
 We are looking for contributions that address one of the reported bugs or
@@ -65,8 +65,8 @@ to optional packages, with their own repository.
 
 We **are** accepting contributions from the community!
 
-We will try to manage the process somewhat, by adding a ["help wanted" label](https://github.com/codeigniter4/CodeIgniter4/labels/help%20wanted) to those that we are 
-specifically interested in at any point in time. Join the discussion for those issues and let us know 
+We will try to manage the process somewhat, by adding a ["help wanted" label](https://github.com/codeigniter4/CodeIgniter4/labels/help%20wanted) to those that we are
+specifically interested in at any point in time. Join the discussion for those issues and let us know
 if you want to take the lead on one of them.
 
 At this time, we are not looking for out-of-scope contributions, only those that would be considered part of our controlled evolution!
@@ -75,7 +75,7 @@ Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/
 
 ## Server Requirements
 
-PHP version 7.2 or higher is required, with the following extensions installed: 
+PHP version 7.2 or higher is required, with the following extensions installed:
 
 
 - [intl](http://php.net/manual/en/intl.requirements.php)
